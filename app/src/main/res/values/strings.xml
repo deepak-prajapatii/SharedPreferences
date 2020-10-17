@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="save_notes">Enter your notes and saves here</string>
+    <string name="action_save">Save Notes</string>
+    <string name="notes">Enter your Notes</string>
+
+</resources>
